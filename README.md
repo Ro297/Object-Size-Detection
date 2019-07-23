@@ -1,4 +1,5 @@
 # Object Size Detection
+Given a reference object of known dimensions, we can calculate the true dimensions of the other objects in the picture.
 
 ## Images folder:
 consists of the test images that needs to be given to the python files
